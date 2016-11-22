@@ -31,6 +31,4 @@
 #Git
 
 1. git remote add origin https://github.com/rg911/AspNetCoreTemplate.git
-2. git config user.name rg911
-3. git clone https://github.com/rg911/AspNetCoreTemplate.git
-4. git push -u origin master
+2. git push -u origin master
